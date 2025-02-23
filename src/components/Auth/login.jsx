@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 const login = ({handleLogin}) => {
     
-    console.log(handleLogin)
+    //console.log(handleLogin)
 
 
 
